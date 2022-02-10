@@ -8,4 +8,4 @@ All the computer assignments for this course, including this project are found i
 Feel free to contrinbute.
 
 #### instructions 
-In order to execute the project, unzip all the files and run `tcp.py` script, follow the console instructions to select two peers for file transfer. any files including binary files could be transferred between the two peers.
+In order to execute the project, unzip all the files and run `tcp.py` script, follow the console instructions to select two peers for file transfer. <br/> any files including binary files could be transferred between the two peers.
