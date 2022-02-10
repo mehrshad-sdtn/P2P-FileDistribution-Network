@@ -4,7 +4,7 @@ A Peer to Peer File distribution network based on Bittorrent protocol, implement
 #### implementaion
 This project was was Implemented by me and [Tara Barghian](https://github.com/taraBarghian) as the Final Project for our Fall 2021 Computer Networks Course, instructed by Dr. Maghsoud Abbaspour.
 <br/>
-All the computer assignments for this course are found in [this](https://github.com/taraBarghian/SBU-Computer-Networks) repository.
+All the computer assignments for this course, including this project are found in [this](https://github.com/taraBarghian/SBU-Computer-Networks) repository.
 Feel free to contrinbute.
 
 #### instructions 
