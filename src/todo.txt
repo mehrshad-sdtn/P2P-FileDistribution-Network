@@ -1,0 +1,10 @@
+- peers must connect to neighbours and recieve data 
+- recieve mode , send mode
+- in send mode peers are listening to requests from other peers via TCP
+- in recieve mode , peers braodcasts request for the file
+if a peer has the file , TCP connection is set up and file is sent
+- file must be in chuncks [DONE!]
+- peers are threads [DONE!]
+- each peer has a log file [DONE!]
+- tcp & udp segment size is 1024 bytes [DONE!]
+- make files list set [DONE!]
